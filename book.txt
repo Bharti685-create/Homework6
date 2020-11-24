@@ -1,0 +1,23 @@
+A: 27
+B: 2
+C: 7
+D: 6
+E: 42
+F: 8
+H: 15
+I: 12
+K: 1
+L: 18
+M: 8
+N: 11
+O: 7
+P: 1
+Q: 2
+R: 13
+S: 13
+T: 30
+U: 6
+V: 2
+X: 3
+Y: 5
+It doesn't have all letters
